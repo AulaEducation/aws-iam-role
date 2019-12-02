@@ -1,6 +1,6 @@
 {
-  "name": "@serverless/aws-iam-role",
-  "version": "1.0.0",
+  "name": "@ublend-npm/aws-iam-role",
+  "version": "0.0.1",
   "main": "./serverless.js",
   "publishConfig": {
     "access": "public"
